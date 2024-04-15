@@ -1,6 +1,6 @@
 <div id="index"></div>
 
-<sub>[<<5. What is an API?](05API.md) | [<<Back to README index](README.md) | [7. What is polymorphism?](07poliformismo.md)>></sub>
+<sub>[<<5. What is an API?](05API.md) | [<<Back to README index](README.md) | [7. What is polymorphism?](07polymorphism.md)>></sub>
 
 <br>
 

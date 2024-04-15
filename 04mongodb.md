@@ -39,6 +39,7 @@ MongoDB is a popular document-oriented database management system that falls und
 <br>
 
 It is designed to store, retrieve, and manage unstructured data in a flexible and scalable manner. 
+
 <br>
 
 <div style="text-align: center;">
@@ -122,9 +123,10 @@ NoSQL databases are designed to handle large volumes of unstructured or semi-str
 
 SQL is a classic relational database. It stores data in tables with rows and columns. It has a tabular structure, similar to what you’d see in an Excel spreadsheet. It stores relational data in a separate join table that uses the id of one model to be declared as being related to another. It’s most commonly used for relationships between models.
 
+<br>
 
 <div style="text-align: center;">
-    <img src="images/SQL-MongoDB Correspondence.PNG" width="70%" height="70%"alt="Polymorphism" />
+    <img src="images/SQL-MongoDB Correspondence.PNG" width="70%" height="70%"alt="SQL vs MongoDB" />
     <p>By codeinsightacademy.com</P>
 </div>
 <br>
@@ -173,7 +175,7 @@ However, there are some significant differences that affect NoSQL versus SQL per
 
 <br>
 
-# 4.6. Pros and cons of NoSQL
+# 4.6. Pros and Cons of NoSQL
 <sub>[<<4.5.Main differences between NoSQL and SQL](#45-main-differences-between-nosql-and-sql) | [<<Back to index](#index) | [4.8. How to download MongoDB?>>](#48-how-to-download-mongodb)</sub>
 
 A significant benefit of NoSQL is that you don't have to define a schema upfront (or ever). This makes it easy to add new columns without dealing with all the issues involved in altering a vast table with lots of data already in it. It also means that if your queries don't require SQL, you can avoid the overhead of parsing and compiling SQL statements, modeling, and storing, providing an enormous performance boost when dealing with large amounts of data.
@@ -183,22 +185,22 @@ However, NoSQL is less mature than SQL. Here’s a look at **NoSQL's pros and co
 **Pros :**
 
 
-Flexible schema
+* Flexible schema
 
-Usable on distributed infrastructure platforms
+* Usable on distributed infrastructure platforms
 
-Low-cost infrastructure
+* Low-cost infrastructure
 
-High availability and throughput
+*High availability and throughput
 
 **Cons  :**
 
 
-Less mature technology and difficult to manage
+* Less mature technology and difficult to manage
 
-Limited query capabilities
+* Limited query capabilities
 
-Data inconsistency and poor performance in some complex scenarios
+* Data inconsistency and poor performance in some complex scenarios
 
 <br>
 
@@ -220,7 +222,8 @@ NoSQL databases like `MongoDB` are going to be perfect when you need to store da
 
 <br>
 
-`SQL`
+`SQL`<br>
+
 If you have data that relies heavily on relationships then it’s probably the best fit to utilize a relational SQL database.
 
 SQL is going to be your best bet if you don’t anticipate huge changes in data storage and rely heavily on model relationships. SQL is also going to be great if you need complex queries and reports because you’ll be able to find very specific data with JOIN queries.
@@ -236,7 +239,7 @@ SQL is going to be your best bet if you don’t anticipate huge changes in data 
 
 You can create a MongoDB database in the following environments:
 
-* **MongoDB Community :** The source-available, free-to-use, and self-managed version of MongoDB.You can download MongoDB for Windows, Linux or MAc, [here.](https://www.mongodb.com/docs/current/installation/)
+* **MongoDB Community :** The source-available, free-to-use, and self-managed version of MongoDB. You can download MongoDB for Windows, Linux or MAc, [here.](https://www.mongodb.com/docs/current/installation/)
 
 * **MongoDB Atlas :** The fully managed service for MongoDB deployments in the cloud.
 
@@ -253,6 +256,8 @@ When working with MongoDB, apart from using the command line, we can use the `Mo
 It is like a friendly dashboard for MongoDB. It helps you interact with your data in a more visual and intuitive way. Think of it as a tool that simplifies your interactions with MongoDB, making tasks easier and more efficient.
 
 You can download MongoDB Compass for free for development environments from the official [MongoDB website](https://www.mongodb.com/docs/compass/current/install/). In fact, it is jointly downloaded when you download MongoDB.
+
+<br>
 
 
 

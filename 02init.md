@@ -92,6 +92,7 @@ class ClassName():
 </figure>
 <br>
 
+<br>
 We can use any of the three types of \__init__ constructors:
 - default, 
 - parameterised,

@@ -19,7 +19,7 @@ The assignment was completed using the language [MARKDOWN tool in Visual Studio 
 
 Here are my responses to the `Checkpoint 6` questions. Each question has been answered in a separated *.md* file. 
 
-For an easy navigation I connected them in the table of content bellow.
+For easy navigation I connected them in the table of content bellow.
 <br>
 
 

@@ -1,4 +1,4 @@
-<sub>[<<2. Which method is automatically executed when a class is instantiated?](02init.md)| [Back to README index](README.md)| [4. Is MongoDB a SQL or NoSQL database?>>](04mongoDB.md)</sub>
+<sub>[<<2. Which method is automatically executed when a class is instantiated?](02init.md)| [Back to README index](README.md)| [4. Is MongoDB a SQL or NoSQL database?>>](04mongodb.md)</sub>
 
 # 3. What are the three API verbs?
 

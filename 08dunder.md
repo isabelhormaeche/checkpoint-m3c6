@@ -1,4 +1,4 @@
-<sub>[<<7. What is polymorphism?](07poliformismo.md) | [<<Back to README index](README.md) | [9. What is a python decorator?>>](09decorator.md)</sub>
+<sub>[<<7. What is polymorphism?](07polymorphism.md) | [<<Back to README index](README.md) | [9. What is a python decorator?>>](09decorator.md)</sub>
 
 # 8. What is a dunder method?
 

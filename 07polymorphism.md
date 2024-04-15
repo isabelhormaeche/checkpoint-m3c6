@@ -1,4 +1,4 @@
-<sub>[<<6. What is Postman?](06postman.md) | [Back to index](00indexm3c6.md) | [8. What is a dunder method?>>](08dunder.md)</sub>
+<sub>[<<6. What is Postman?](06postman.md) | [Back to index](README.md) | [8. What is a dunder method?>>](08dunder.md)</sub>
 
 # 7. What is polymorphism?
 

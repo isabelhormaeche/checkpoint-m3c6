@@ -72,8 +72,10 @@ Objects created from a class have the same properties and behaviors defined by t
     <img src="images/instance_variables_and_methods.webp"  alt="image of instance variables and methods">
     <figcaption>Instance variables and methods. By Pynative.com</figcaption>
 </figure>
+
 <br>
 
+<br>
 
 To define a class in Python, you use the keyword ``class``, followed by the class name. We use one uppercase letter for the name (that is the common convention) followed by a colon.  For example:
 ```Python
@@ -484,6 +486,8 @@ For example, a car is an object, and its properties are car color, sunroof, pric
     <img src="images/object_properties.webp" alt="image of class and objects">
     <figcaption>Python class and objects. By Pynative.com</figcaption>
 </div>
+
+<br>
 
 <br>
 

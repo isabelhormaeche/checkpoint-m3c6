@@ -1,10 +1,10 @@
 <div id="index"></div>
 
-<sub>[<< 4. Is MongoDB a SQL or NoSQL database?](04mongoDB.md) | [<<Back to README index](README.md)| [6. What is Postman?>>](06postman.md)</sub>
+<sub>[<< 4. Is MongoDB a SQL or NoSQL database?](04mongodb.md) | [<<Back to README index](README.md)| [6. What is Postman?>>](06postman.md)</sub>
 
 
 # 5. What is an API?
-<sub>[<<Back to M3C6 Checkpoint index](00indexm3c6.md) | [5.1. Why we use APIs?>>](#51-why-we-use-apis)</sub>
+<sub>[<<Back to M3C6 Checkpoint index](README.md) | [5.1. Why we use APIs?>>](#51-why-we-use-apis)</sub>
 
 <br>
 
@@ -123,7 +123,7 @@ Let´s see an example of a Third-Party Payment Processing. Imagine a user buying
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <img src="images/Zara_PayPal_API_flow1.jpg" width="500" height="300" alt="image of class and objects">
     <br<>
-    <sub>API flow between Zara and PayPal. Generated with AI Designer.</sub>
+   <p>API flow between Zara and PayPal. Generated with AI Designer.</p>
 </div>
 
 <br>
@@ -184,6 +184,8 @@ An API (Application Programming Interface) is a set of rules or protocols that a
     <img src="images/rest-api.png"  alt="image of class and objects" width="500" height="350">
     <figcaption>By mannhowie.com</figcaption>
 </figure>
+<br>
+
 <br>
 
 API stands for application programming interface and serves as a bridge for communication between different software applications. Here are the key points:
