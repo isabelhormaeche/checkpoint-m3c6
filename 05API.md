@@ -25,6 +25,7 @@ Table of Contents:
 * [5.2. How do APIs work?](#52-how-do-apis-work)
 * [5.3. Types of APIs?](#53-types-of-apis)
 
+<br>
 
 
 An API, or application programming interface, is a set of rules or protocols that enables software applications to communicate with each other to exchange data, features and functionality.
@@ -150,7 +151,7 @@ In summary, APIs facilitate data exchange, automate tasks, and create smooth int
 
 <br>
 
-Today, most APIs are `web APIs`. Web APIs are a type of remote API (meaning that the API uses HTTP protocols to manipulate external resources) that expose an application's data and functionality over the internet.
+Today, most APIs are **web APIs**. Web APIs are a type of remote API (meaning that the API uses HTTP protocols to manipulate external resources) that expose an application's data and functionality over the internet.
 
 
 They can be private for a company's use, open only to partners, or public so that any developer can interact with them or create their own APIs to do so. They can also be local APIs for applications that communicate within the same environment or device, or remote APIs for when you have to access a different point.
@@ -174,7 +175,9 @@ They can be private for a company's use, open only to partners, or public so tha
 <br>
 
 
-CONCLUSION:<br>
+**CONCLUSION:**
+<br>
+
 An API (Application Programming Interface) is a set of rules or protocols that allow software applications to communicate with each other, exchange data, features, and functionality. Instead of building everything from scratch, developers can use APIs to integrate data, services, and capabilities from other applications.
 
 

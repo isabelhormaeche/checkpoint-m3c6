@@ -129,13 +129,16 @@ But it also offers some payment options that improve the features, allowing sync
 
 
 
-[!NOTE]
 
-    Postman VS Code extension Early access!
+```NOTE
+NOTE:
 
-    The Postman VS Code extension, allows you to send API requests from within VS Code—now with support for collections and environments. 
+Postman VS Code extension Early access!
 
-<!-- <img align="center"  src="images/req-in-collection-1809.gif" width="700" height="300" /> -->
+The Postman VS Code extension, allows you to send API requests from within VS Code—now with support for collections and environments. 
+```
+
+<br>
 
 This extension is currently in its beta phase. You can learn more about it here: [ Postman for VSCode](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
 
@@ -200,11 +203,15 @@ This is really where Postman is great. **We’re able to quickly & visually test
 
 <br>
 
+```Note
+TIP:
 
-    [!TIP]: Use Postman to Generate Python Code
-    So over in the right-hand side of your Postman window, you’ll see an icon that looks like this: </>
+Use Postman to Generate Python Code
 
-    If you click that, you’ll see a dropdown menu of various languages & tools. Select one of those options and Postman will auto-generate code you can use. This auto-generated code will execute the same request you have built in the Postman GUI.
+So over in the right-hand side of your Postman window, you’ll see an icon that looks like this: </>
+
+If you click that, you’ll see a dropdown menu of various languages & tools. Select one of those options and Postman will auto-generate code you can use. This auto-generated code will execute the same request you have built in the Postman GUI.
+```
 
 <br>
 
